@@ -1,2 +1,2 @@
 # Unspupervised-Learning
-A repo of all things related to unsupervised learning
+A repo for all things related to unsupervised learning
